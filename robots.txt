@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soulfire.worldofgothic.com/sitemap.xml
